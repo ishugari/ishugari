@@ -32,6 +32,9 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 
 
 <p align ="center">
+ <br>
+    <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
+    <br>
       <b>Yo!</b>
       I appear as a compiler dev ☕! <br>
       Mostly... but also have other forms like gamedev, osdev, <a href=https://www.instagram.com/billyeatcookies>weird pencil artist</a>, a CS student, etc. <br><br>
