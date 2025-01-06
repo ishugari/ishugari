@@ -12,8 +12,6 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a> <br>
 </div>
 
----
-
 <hr>
 
 <details align="left">
