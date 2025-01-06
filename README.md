@@ -14,6 +14,24 @@
 
 ---
 
+<hr>
+
+<details align="left">
+<summary align="center">More</summary>
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/QWJvdXQgbWU6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
+
+```
+Name: Divyanshu Singh
+From: Jaunpur, Uttar Pradesh, India
+Education: Pursuing B.Tech in Mechanical Engineering
+           3rd Year
+           coding my way through... or at least passing finals!
+
+Interested in Dev stuff and playing with legos – both involve building cool things!
+```
+<hr>
+
+
 ### About Me
 
 🎉 **Yo!** I appear as a **compiler dev 🛠️!**  
