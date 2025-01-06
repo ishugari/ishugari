@@ -1,12 +1,12 @@
 <!-- Header Section with Badges -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a> <br>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-yellow?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow"></a> <br>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-yellow?style=for-the-badge&logo=html5&logoColor=black" alt="HTML"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
 </div>
 
 ---
