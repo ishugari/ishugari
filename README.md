@@ -1,4 +1,9 @@
 <!-- Header Section with Badges -->
+
+<div align="center">
+  <img src="[https://drive.google.com/file/d/1YQDwSDjuoUByHlfTuWRZ0ocMfEMaH2p0/view?usp=drivesdk]" alt="Header Image" width="800">
+</div>
+
 <div align="center">
  <br><a href="#"><img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
