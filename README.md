@@ -3,10 +3,6 @@
 ![Header Image](https://i.ibb.co/56Nj6q7/i-Shu-gari-20250107-014214-0000.png)
 
 <div align="center">
-  <img src="[https://i.ibb.co/56Nj6q7/i-Shu-gari-20250107-014214-0000.png]" alt="Header Image">
-</div>
-
-<div align="center">
  <br><a href="#"><img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
