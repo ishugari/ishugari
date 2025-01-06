@@ -1,9 +1,11 @@
 <!-- Header Section with Badges -->
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-brown?logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
