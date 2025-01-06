@@ -1,6 +1,6 @@
 <!-- Header Section with Badges -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+ <br><a href="#"><img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-yellow?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow"></a> <br>
