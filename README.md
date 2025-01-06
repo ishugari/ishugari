@@ -29,64 +29,18 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 ```
 <hr>
 
-
-### About Me
-
-🎉 **Yo!** I appear as a **compiler dev 🛠️!**  
-I also dabble in:  
-- 🕹️ Game Development  
-- 💻 OS Development  
-- ✏️ [Weird Pencil Artist](#) (link to your art portfolio if applicable)  
-- 🎓 Computer Science Student  
-
-🎥 **Studio Ghibli fan forever!** *(no specific reason to mention it, just love it!)*
-
----
-
-### External Links
-
-<!-- Replace the '#' below with actual URLs -->
-[![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itch.io&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](#)
-[![Spotify](https://img.shields.io/badge/Spotify-green?logo=spotify&logoColor=white)](#)
-
----
-
-### Most Used Languages
-
-<!-- Language Usage Chart -->
-<!-- Upload your custom image for languages or replace the URL below -->
-![Most Used Languages](https://your-image-url-here.com)
-
----
-
-### Projects Showcase
-
-<!-- Add images or descriptions of your projects -->
-#### 🛠️ Project 1: Biscuit  
-*A lightweight, aesthetic code editor inspired by VS Code, Vim, and Zed.*  
-![Biscuit Preview](https://your-image-url-here.com)  
-[View on GitHub](#)
-
-#### 🎮 Project 2: Ember  
-*A highly optimized game engine written in C++.*  
-![Ember Preview](https://your-image-url-here.com)  
-[View on GitHub](#)
-
-#### 💻 Project 3: BILL  
-*A minimal x64 operating system kernel.*  
-![BILL Preview](https://your-image-url-here.com)  
-[View on GitHub](#)
-
-#### 🤖 Project 4: RoboBilly  
-*A Discord bot with moderation, fun commands, and more!*  
-![RoboBilly Preview](https://your-image-url-here.com)  
-[View on GitHub](#)
-
----
-
-### Contact Me
-
-For collaborations or inquiries, feel free to reach out:  
-📧 Email: your-email@example.com  
-📱 Discord: @yourusername
+<p align ="center">
+      <b>Yo!</b>
+      I appear as a compiler dev ☕! <br>
+      Mostly... but also have other forms like gamedev, osdev, <a href=https://www.instagram.com/billyeatcookies>weird pencil artist</a>, a CS student, etc. <br><br>
+      <b>Oh and I love anything Studio Ghibli!</b><br>
+      <sub>(no specific reason to write that here)</sub>
+    </p>
+    <br>
+    <a href="https://tomlin7.itch.io"><img src="https://img.shields.io/badge/Itch%20-d92959.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"></a>
+    <a href="https://twitter.com/tomlin7"><img src="https://img.shields.io/badge/Twitter-414574.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/8sqr1p3xjg3hxh7kzl94vfwdz"><img src="https://img.shields.io/badge/Spotify-d92959.svg?style=for-the-badge&logo=spotify&logoColor=white"></a><br>
+    <p align="center">
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=tomlin7&show_icons=true&hide_border=true&bg_color=2e2751&text_color=d92959&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlin7&layout=compact&show_icons=true&hide_border=true&bg_color=2e2751&text_color=9092AB&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
+    </p>
