@@ -1,7 +1,7 @@
 <!-- Header Section with Badges -->
 
 <div align="center">
-  <img src="[https://drive.google.com/file/d/1YQDwSDjuoUByHlfTuWRZ0ocMfEMaH2p0/view?usp=drivesdk]" alt="Header Image" width="800">
+  <img src="[https://ibb.co/DtxMt3q]" alt="Header Image" width="800">
 </div>
 
 <div align="center">
