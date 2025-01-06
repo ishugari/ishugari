@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Header Section with Badges -->
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-brown?logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
-<!--
-**ishugari/ishugari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎉 **Yo!** I appear as a **compiler dev 🛠️!**  
+I also dabble in:  
+- 🕹️ Game Development  
+- 💻 OS Development  
+- ✏️ [Weird Pencil Artist](#) (link to your art portfolio if applicable)  
+- 🎓 Computer Science Student  
+
+🎥 **Studio Ghibli fan forever!** *(no specific reason to mention it, just love it!)*
+
+---
+
+### External Links
+
+<!-- Replace the '#' below with actual URLs -->
+[![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itch.io&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-green?logo=spotify&logoColor=white)](#)
+
+---
+
+### Most Used Languages
+
+<!-- Language Usage Chart -->
+<!-- Upload your custom image for languages or replace the URL below -->
+![Most Used Languages](https://your-image-url-here.com)
+
+---
+
+### Projects Showcase
+
+<!-- Add images or descriptions of your projects -->
+#### 🛠️ Project 1: Biscuit  
+*A lightweight, aesthetic code editor inspired by VS Code, Vim, and Zed.*  
+![Biscuit Preview](https://your-image-url-here.com)  
+[View on GitHub](#)
+
+#### 🎮 Project 2: Ember  
+*A highly optimized game engine written in C++.*  
+![Ember Preview](https://your-image-url-here.com)  
+[View on GitHub](#)
+
+#### 💻 Project 3: BILL  
+*A minimal x64 operating system kernel.*  
+![BILL Preview](https://your-image-url-here.com)  
+[View on GitHub](#)
+
+#### 🤖 Project 4: RoboBilly  
+*A Discord bot with moderation, fun commands, and more!*  
+![RoboBilly Preview](https://your-image-url-here.com)  
+[View on GitHub](#)
+
+---
+
+### Contact Me
+
+For collaborations or inquiries, feel free to reach out:  
+📧 Email: your-email@example.com  
+📱 Discord: @yourusername
