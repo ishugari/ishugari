@@ -9,7 +9,7 @@
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-yellow?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow"></a> <br>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-yellow?style=for-the-badge&logo=html5&logoColor=black" alt="HTML"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a> <br>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a> <br> <br>
 </div>
 
 <hr>
