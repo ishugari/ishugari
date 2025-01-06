@@ -1,7 +1,7 @@
 <!-- Header Section with Badges -->
 
 <div align="center">
-  <img src="[17361952459267971617436391833157](https://github.com/user-attachments/assets/70661041-0edd-4c23-8812-62ed3950a0a4)]" alt="Header Image" width="800">
+  <img src="![17361952459267971617436391833157](https://github.com/user-attachments/assets/70661041-0edd-4c23-8812-62ed3950a0a4)]" alt="Header Image" width="800">
 </div>
 
 <div align="center">
