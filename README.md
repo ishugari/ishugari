@@ -1,5 +1,7 @@
 <!-- Header Section with Badges -->
 
+![Header Image](https://i.ibb.co/56Nj6q7/i-Shu-gari-20250107-014214-0000.png)
+
 <div align="center">
   <img src="[https://i.ibb.co/56Nj6q7/i-Shu-gari-20250107-014214-0000.png]" alt="Header Image">
 </div>
