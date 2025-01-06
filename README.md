@@ -41,17 +41,17 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 <div align="center">
   <!-- Spotify Button -->
   <a href="https://open.spotify.com/user/0k6dn255cujkm0i0s85g6k876">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+    <img src="https://img.shields.io/badge/Spotify-yellow?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
   
   <!-- Letterboxd Button -->
   <a href="https://letterboxd.com/daviern/">
-    <img src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
+    <img src="https://img.shields.io/badge/Letterboxd-purple?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
   </a>
   
   <!-- Goodreads Button -->
   <a href="https://www.goodreads.com/daviern">
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
+    <img src="https://img.shields.io/badge/Goodreads-yellow?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
   </a>
 </div>
 
