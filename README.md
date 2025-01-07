@@ -35,17 +35,18 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  <br>
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
 
-<div align="center" style="padding: 20px 240px; max-width: 50%; margin: 0 auto;">
-  <p style="text-align: justify; font-size: 16px; padding: 20px 240px;">
+<div align="center" style="max-width: 600px; margin: 0 auto; padding: 20px;">
+  <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
     <i>
       nope i aint a developer, but i do code sometimes!
       <br><br>
-      heres what im really into: poetry, philosophy, spirituality, writing, research, music, cinema, books, anime, manga, psychology and cats.
+      heres what im really into: poetry, philosophy, spirituality, writing, research, music, cinema, books, anime, manga, psychology, and cats.
       <br><br>
-      and these are the stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism bla bla blahh...
+      and these are the stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism, bla bla blahh...
     </i>
   </p>
 </div>
+
 
  
     
