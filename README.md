@@ -47,7 +47,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
   box-sizing: border-box"
 -->
 
-<div align= "center">
+<div style="align: center; margin: 300px;">
   <p style="margin: 300px; width: 10%; 
   padding: 20px; 
   align: center; 
