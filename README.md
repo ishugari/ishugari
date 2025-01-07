@@ -35,7 +35,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  <br>
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
 
-<div align="center" style="padding: 20px 40px; max-width: 50%; margin: 0 auto;">
+<div align="center" style="padding: 20px 240px; max-width: 50%; margin: 0 auto;">
   <p style="text-align: justify; font-size: 16px;">
     <i>
       nope i aint a developer, but i do code sometimes!
