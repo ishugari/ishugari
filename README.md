@@ -35,9 +35,8 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  <br>
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
 
-<div align="center">
-  <hr style="width: 80%; border: 1px solid grey;">
-  <p style="text-align: justify; max-width: 80%; margin: 0 auto; font-size: 16px;">
+<div align="center" style="padding-top: 20px; padding-bottom: 20px; max-width: 80%; margin: 0 auto;">
+  <p style="text-align: justify; font-size: 16px;">
     <i>
       nope i aint a developer, but i do code sometimes!
       <br><br>
@@ -46,8 +45,8 @@ Interested in Dev stuff and playing with legos – both involve building cool th
       and these are the stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism bla bla blahh...
     </i>
   </p>
-  <hr style="width: 80%; border: 1px solid grey;">
 </div>
+
  
     
 <div align="center">
