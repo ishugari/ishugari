@@ -83,10 +83,4 @@ Interested in Dev stuff and playing with legos – both involve building cool th
     <img src="https://img.shields.io/badge/Goodreads-yellow?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
   </a>
 </div>
-
- 
- <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=tomlin7&show_icons=true&hide_border=true&bg_color=2e2751&text_color=d92959&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlin7&layout=compact&show_icons=true&hide_border=true&bg_color=2e2751&text_color=9092AB&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
-    </p>
 </details>
