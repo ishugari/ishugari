@@ -35,8 +35,9 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  <br>
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
 
-<div align="center" style="max-width: 600px; margin: 0 auto; padding: 20px;">
-  <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
+
+<div style="max-width: 500px; margin: 0 auto; padding: 20px; text-align: justify; word-wrap: break-word; font-size: 16px; line-height: 1.6; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <p>
     <i>
       nope i aint a developer, but i do code sometimes!
       <br><br>
@@ -46,8 +47,6 @@ Interested in Dev stuff and playing with legos – both involve building cool th
     </i>
   </p>
 </div>
-
-
  
     
 <div align="center">
