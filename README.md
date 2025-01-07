@@ -66,6 +66,8 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  
     
 <div align="center">
+
+  <sub>(my fav pagesssssss...)</sub>
   <!-- Spotify Button -->
   <a href="https://open.spotify.com/user/0k6dn255cujkm0i0s85g6k876">
     <img src="https://img.shields.io/badge/Spotify-yellow?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
