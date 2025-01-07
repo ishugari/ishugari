@@ -35,11 +35,11 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  <br>
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
     <br>
-      <b>Yo!</b>
-      I appear as a compiler dev ☕! <br>
-      Mostly... but also have other forms like gamedev, osdev, <a href=https://www.instagram.com/billyeatcookies>weird pencil artist</a>, a CS student, etc. <br><br>
-      <b>Oh and I love anything Studio Ghibli!</b><br>
-      <sub>(no specific reason to write that here)</sub>
+      nope i aint a developer, but i do code sometimes!
+<br>
+heres what im really into: poetry, philosophy, spirituality, writing, research, music, cinema, books, anime, manga, psychology and cats.
+<br>
+and these are the stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism bla bla blahh...
     <br>
 <div align="center">
   <!-- Spotify Button -->
