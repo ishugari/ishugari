@@ -35,9 +35,8 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  <br>
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
 
-
-<div style="
-  width: 100%; 
+<!--
+  style="margin: 300px; width: 100%; 
   max-width: 400px; 
   margin: 0 auto; 
   padding: 20px; 
@@ -45,10 +44,11 @@ Interested in Dev stuff and playing with legos – both involve building cool th
   font-size: 16px; 
   line-height: 1.6; 
   word-break: break-word; 
-  box-sizing: border-box;">
-  <p style="margin: 0; width: 100%; 
-  max-width: 400px; 
-  margin: 0 auto; 
+  box-sizing: border-box"
+-->
+
+<div>
+  <p style="margin: 300px; width: 10%; 
   padding: 20px; 
   text-align: justify; 
   font-size: 16px; 
