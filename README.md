@@ -46,7 +46,15 @@ Interested in Dev stuff and playing with legos – both involve building cool th
   line-height: 1.6; 
   word-break: break-word; 
   box-sizing: border-box;">
-  <p style="margin: 0;">
+  <p style="margin: 0; width: 100%; 
+  max-width: 400px; 
+  margin: 0 auto; 
+  padding: 20px; 
+  text-align: justify; 
+  font-size: 16px; 
+  line-height: 1.6; 
+  word-break: break-word; 
+  box-sizing: border-box">
     <i>
       nope i aint a developer, but i do code sometimes!
       <br><br>
