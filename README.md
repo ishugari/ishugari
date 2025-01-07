@@ -50,11 +50,9 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 <div>
   <p style="margin: 300px; width: 10%; 
   padding: 20px; 
-  text-align: center; 
+  align: center; 
   font-size: 16px; 
-  line-height: 1.6; 
-  word-break: break-word; 
-  box-sizing: border-box">
+  line-height: 1.6;">
     <i>
       nope i aint a developer, but i do code sometimes!
       <br><br>
