@@ -34,13 +34,22 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 <p align ="center">
  <br>
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
-    <br>
+
+<div align="center">
+  <hr style="width: 80%; border: 1px solid grey;">
+  <p style="text-align: justify; max-width: 80%; margin: 0 auto; font-size: 16px;">
+    <i>
       nope i aint a developer, but i do code sometimes!
-<br>
-heres what im really into: poetry, philosophy, spirituality, writing, research, music, cinema, books, anime, manga, psychology and cats.
-<br>
-and these are the stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism bla bla blahh...
-    <br>
+      <br><br>
+      heres what im really into: poetry, philosophy, spirituality, writing, research, music, cinema, books, anime, manga, psychology and cats.
+      <br><br>
+      and these are the stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism bla bla blahh...
+    </i>
+  </p>
+  <hr style="width: 80%; border: 1px solid grey;">
+</div>
+ 
+    
 <div align="center">
   <!-- Spotify Button -->
   <a href="https://open.spotify.com/user/0k6dn255cujkm0i0s85g6k876">
