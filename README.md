@@ -1,6 +1,6 @@
 <!-- Header Section with Badges -->
 
-![Header Image](https://ibb.co/8M24SV1)
+![Header Image](https://i.ibb.co/y05BbJH/image-removebg-preview.png)
 
 <div align="center">
  <br><a href="#"><img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
