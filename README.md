@@ -10,6 +10,13 @@
   <a href="#"><img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-yellow?style=for-the-badge&logo=html5&logoColor=black" alt="HTML"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a> <br> <br>
+
+ <a href="#"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+<a href="#"><img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+<a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"></a>
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="#"><img src="https://img.shields.io/badge/PostGIS-lightgrey?style=for-the-badge&logo=postgis&logoColor=black" alt="PostGIS"></a>
+
 </div>
 
 <hr>
