@@ -25,7 +25,7 @@ From: Jaunpur, Uttar Pradesh, India
 Education: Pursuing B.Tech in Mechanical Engineering
            coding my way through... or at least passing finals!
 
-Interested in Dev stuff and playing with legos – both involve building cool things!
+Just building cool things here nd there...
 ```
 <hr>
 
