@@ -23,7 +23,6 @@
 Name: Divyanshu Singh
 From: Jaunpur, Uttar Pradesh, India
 Education: Pursuing B.Tech in Mechanical Engineering
-           3rd Year
            coding my way through... or at least passing finals!
 
 Interested in Dev stuff and playing with legos – both involve building cool things!
@@ -55,11 +54,11 @@ Interested in Dev stuff and playing with legos – both involve building cool th
   font-size: 16px; 
   line-height: 1.6;">
     <i>
-      nope i aint a developer, but i do code sometimes!
+      nope i aint no developer, but i do code sometimes!
       <br><br>
       heres what im really into: poetry, philosophy, spirituality, writing, research, music, cinema, books, anime, manga, psychology, and cats.
       <br><br>
-      and these are the stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism, bla bla blahh...
+      and these are the some stuff i personally dont like: smut, too much of talk, funny people, all the things that lack art, modern day feminism, imbalance, immorality, atheism, bla bla blahh...
     </i>
   </p>
 </div>
@@ -68,7 +67,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
     
 <div align="center">
 
-  <sub>(my fav pagesssssss...)</sub>
+  <sub>(my fav places...)</sub>
   <!-- Spotify Button -->
   <a href="https://open.spotify.com/user/0k6dn255cujkm0i0s85g6k876">
     <img src="https://img.shields.io/badge/Spotify-yellow?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
